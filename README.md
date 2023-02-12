@@ -1,35 +1,19 @@
-# Stablo - Astro Blog Template with MDX
+# UOKCS-19 Dev Community Blog
 
-Stablo Astro is an Astro version of [Stablo - Next.js Blog Template](https://stablo-pro.web3templates.com/), #1 template for Next.js & Sanity CMS. This is an Astro version of the same template.
-
-This free template is sponsored by [Web3Templates](https://web3templates.com)
+This is the community site and blog hosted on github pages
 
 ## Live Demo
 
-### [https://stablo-astro.web3templates.com/](https://stablo-astro.web3templates.com/)
-
-### [Download Stablo Astro Template](https://web3templates.com/templates/stablo-minimal-blog-website-template)
-
-## Deploy on Vercel
-
-Click the below link to deploy this template on Vercel
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=hhttps://github.com/web3templates/stablo-astro&project-name=stablo-astro&repository-name=stablo-astro&demo-title=Stablo%20Astro%20Blog%20Template&demo-description=Stablo%20Astro%20is%20a%20starter%20blog%20template%20for%20Astro%20built%20with%20MDX%20&%20TailwindCSS&demo-url=https%3A%2F%2Fstablo-astro.web3templates.com%2F&demo-image=https://user-images.githubusercontent.com/1884712/169838344-e32b7426-621a-45a4-aba8-afedf3377e1f.jpeg)
-
-![Screenshot](https://user-images.githubusercontent.com/1884712/210131622-59ac9ff8-43fe-4a7d-b7fc-8b3b981baa52.png)
+### [Dev Community](https://uokcs-19.github.io/)
 
 ## Installation
-
-If you are reading this on github, you can click on the "Use this template" button above to create a new repository from astroship to your account. Then you can do a `git clone` to clone it to your local system.
-
-Alternatively, you can clone the project directly from this repo to your local system.
 
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/web3templates/stablo-astro.git myProjectName
+git clone https://github.com/UOKCS-19/UOKCS-19.github.io.git myProjectName
 # or
-git clone https://github.com/web3templates/stablo-astro.git .
+git clone https://github.com/UOKCS-19/UOKCS-19.github.io.git .
 ```
 
 The `.` will clone it to the current directory so make sure you are inside your project folder first.
@@ -108,3 +92,4 @@ TailwindCSS is already configured in this repo, so you can start using them with
 Feel free to check out [Astro Docs](https://docs.astro.build) or jump into our [Discord Chat](https://web3templates.com/discord).
 
 [![Built with Astro](https://astro.badg.es/v1/built-with-astro.svg)](https://astro.build)
+And with Stablo Theme
