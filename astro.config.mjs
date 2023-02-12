@@ -8,7 +8,7 @@ import sitemap from "@astrojs/sitemap";
 import { remarkReadingTime } from "./src/utils/all";
 
 export default defineConfig({
-  site: "https://uokcs-19.github.io/blog/",
+  site: "https://uokcs-19.github.io/",
   experimental: {
     contentCollections: true,
   },
