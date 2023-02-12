@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "KavindiDev",
+      "name": "Dewmini Thakshila Kavindi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99270120?v=4",
+      "profile": "https://github.com/KavindiDev",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "UOKCS-19.github.io",
+  "projectOwner": "UOKCS-19"
+}
