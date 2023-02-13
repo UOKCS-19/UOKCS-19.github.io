@@ -16,6 +16,17 @@ Curabitur viverra posuere elit, quis tincidunt lectus. Maecenas in magna ac odio
 
 Proin tincidunt consectetur tortor, nec bibendum massa faucibus ut. Aenean viverra eleifend orci, a sagittis ante efficitur vel. Sed malesuada, mauris eget blandit consectetur, dolor nisi feugiat mauris, sit amet facilisis nisi justo a nulla. Nulla eu diam vel risus bibendum feugiat. Aenean suscipit varius arcu, ut bibendum libero pretium vel. Duis scelerisque ipsum sed quam lobortis, nec gravida sapien vehicula.
 
+```c
+void main(){
+    if(1){
+        printf("asag");
+    }
+    else{
+        printf("asgasgas");
+    }
+}
+```
+
 Donec non justo ut magna imperdiet efficitur. Nulla facilisi. Nam eu vestibulum nulla. Nam ut felis quis diam malesuada eleifend. Sed eu nulla tincidunt, dictum dolor vel, suscipit turpis. Aliquam eget quam nisl. Phasellus tincidunt aliquam sapien, nec dignissim nulla auctor ut. Aliquam eget odio vel elit molestie tincidunt. Vivamus maximus sapien vitae neque pellentesque tincidunt. Sed euismod sem vel neque tempor, a tempor mauris vehicula. Integer id mauris convallis, ullamcorper lacus id, pulvinar magna.
 
 This text is just an example and can be replaced with your own content once you are ready.

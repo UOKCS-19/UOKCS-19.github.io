@@ -2,13 +2,13 @@
 title: "Title Goes Here"
 excerpt: "Some description"
 publishDate: "2022-12-29T11:39:36.050Z"
-image: "https://images.unsplash.com/[IMAGE-URL]"
+image: "https://images.unsplash.com/photo-1664575599618-8f6bd76fc670"
 # category slug: choose from "./src/data/category.js"
 category: "technology"
 # remove this line to publish
 draft: true
 # author slug: choose from "./src/data/authors.js"
-author: "mario-sanchez"
+author: "sample-person1"
 tags: [tag1, tag2, tag3]
 ---
 

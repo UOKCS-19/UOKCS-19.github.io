@@ -25,7 +25,7 @@ export async function getStaticPaths() {
 
 const { post } = Astro.props;
 
-const { Content, injectedFrontmatter } = await post.render();
+const { Content, remarkPluginFrontmatter:injectedFrontmatter } = await post.render();
 
 const author = authors.find((item) => item.slug === post.data.author) as Author;
 const category = categories.find(
@@ -44,7 +44,7 @@ const category = categories.find(
       </div>
 
       <h1
-        class="mt-2 mb-3 text-4xl font-semibold font-display tracking-tight text-center lg:leading-snug text-brand-primary lg:text-4xl dark:text-white">
+        class="mt-2 mb-3 text-3xl font-semibold tracking-tight text-center lg:leading-snug text-brand-primary lg:text-4xl dark:text-white">
         {post.data.title}
       </h1>
 
@@ -95,7 +95,7 @@ const category = categories.find(
           sizes="(max-width: 640px) 90vw, 480px"
           aspectRatio="16:9"
           width={1024}
-          heignt={576}
+          height={576}
           alt="Thumbnail"
           loading="eager"
           class="w-full"
@@ -112,7 +112,7 @@ const category = categories.find(
 
         <div class="flex flex-wrap items-center w-full gap-3 md:w-auto">
           {
-            post.data.tags.map((tag) => (
+            post.data.tags.map((tag: unknown) => (
               <span class="text-sm text-gray-500">#{tag}</span>
             ))
           }
