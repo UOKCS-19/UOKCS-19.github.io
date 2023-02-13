@@ -16,12 +16,11 @@ import Link from "@components/ui/link.astro";
 
     <div class="grid md:grid-cols-3 gap-10 mx-auto max-w-4xl mt-12">
       {
-        authors.slice(0, 3).map((item) => (
+        authors.slice(0).map((item) => (
           <div class="group">
             <div class="w-full aspect-square">
               <Image
                 src={item.image}
-                format="avif"
                 width={580}
                 height={580}
                 alt="Team"
