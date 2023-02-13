@@ -11,6 +11,7 @@ module.exports = {
       },
       fontFamily: {
         sans: ["InterVariable", "Inter", ...defaultTheme.fontFamily.sans],
+        display: ["Gilda Display", ...defaultTheme.fontFamily.sans],
       },
       aspectRatio: {
         "4/3": "4 / 3",

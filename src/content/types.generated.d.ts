@@ -43,30 +43,9 @@ declare module 'astro:content' {
 
 	const entryMap: {
 		"blog": {
-"14-architectural-design-ideas-for-spacious-interior.md": {
-  id: "14-architectural-design-ideas-for-spacious-interior.md",
-  slug: "14-architectural-design-ideas-for-spacious-interior",
-  body: string,
-  collection: "blog",
-  data: InferEntrySchema<"blog">
-},
-"complete-guide-fullstack-development.md": {
-  id: "complete-guide-fullstack-development.md",
-  slug: "complete-guide-fullstack-development",
-  body: string,
-  collection: "blog",
-  data: InferEntrySchema<"blog">
-},
 "essential-data-structures-algorithms.md": {
   id: "essential-data-structures-algorithms.md",
   slug: "essential-data-structures-algorithms",
-  body: string,
-  collection: "blog",
-  data: InferEntrySchema<"blog">
-},
-"every-next-level-of-your-life-will-demand-a-different-you.md": {
-  id: "every-next-level-of-your-life-will-demand-a-different-you.md",
-  slug: "every-next-level-of-your-life-will-demand-a-different-you",
   body: string,
   collection: "blog",
   data: InferEntrySchema<"blog">
