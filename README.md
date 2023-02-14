@@ -3,9 +3,8 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-<!-- ALL-CONTRIBUTORS-BADGE:START -->
 [![Active Issues](https://deepsource.io/gh/UOKCS-19/UOKCS-19.github.io.svg/?label=active+issues&token=G05jCYgHjy_6OHj6OVgxb6LO)](https://deepsource.io/gh/UOKCS-19/UOKCS-19.github.io/?ref=repository-badge)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
 
 This is the community site and blog hosted on github pages
 
