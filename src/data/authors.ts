@@ -47,7 +47,13 @@ export const authors: Props[] = [
   {
     name: "Imesha Dilshani",
     slug: "imesha-dilshani",
-    image: "./src/assets/authors/Imesha.jpg",
-    bio: " Hi, I am Imesha ",
+    image: "./src/assets/authors/imesha.jpg",
+    bio: " I am a tech enthusiast undergraduate and a designer skilled in producing functional and aesthetically pleasing visual solutions, with a passion for exploring new technologies.",
+  },
+  {
+    name: "Ayisha Ilyas",
+    slug: "ayisha-ilyas",
+    image: "./src/assets/authors/ayisha.jpeg",
+    bio: " As a tech writer and creative blogger, I merge my passion for technology and communication in engaging and informative content, while pursuing my undergraduate degree.",
   },
 ];
