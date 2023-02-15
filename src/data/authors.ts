@@ -62,4 +62,10 @@ export const authors: Props[] = [
     image: "./src/assets/authors/dinithi.jpg",
     bio: "Hi it's me ,I'm the problem",
   },
+  {
+    name: "Hirantha Ranathunga",
+    slug: "hirantha-ranathunga",
+    image: "./src/assets/authors/hiranthaD.jpg",
+    bio: "Carpe diem",
+  },
 ];
