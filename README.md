@@ -10,7 +10,7 @@ This is the community site and blog hosted on github pages
 
 ## Live Demo
 
-### [Dev Community](https://uokcs-19.github.io/)
+### <a href="https://uokcs-19.github.io/"><img src="https://img.shields.io/badge/Live%20Preview-online-brightgreen"></a>
 
 ## Installation
 
