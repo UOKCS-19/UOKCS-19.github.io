@@ -3,6 +3,9 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
+[![Active Issues](https://deepsource.io/gh/UOKCS-19/UOKCS-19.github.io.svg/?label=active+issues&token=G05jCYgHjy_6OHj6OVgxb6LO)](https://deepsource.io/gh/UOKCS-19/UOKCS-19.github.io/?ref=repository-badge)
+
+
 This is the community site and blog hosted on github pages
 
 ## Live Demo
@@ -90,16 +93,6 @@ Any static assets, like images, can be placed in the `public/` directory.
 
 TailwindCSS is already configured in this repo, so you can start using them without any installation.
 
-## Contributors
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ## 👀 Want to learn more?
 
