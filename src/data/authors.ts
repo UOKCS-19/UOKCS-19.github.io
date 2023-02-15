@@ -44,4 +44,10 @@ export const authors: Props[] = [
     image: "./src/assets/authors/tharinduVinod.jpg",
     bio: "As an active collaborator with creativity on my side, I bring a unique perspective to our team's projects, and take pride in working together to achieve our goals. I am dedicated to finding innovative solutions that push the boundaries and exceed expectations.",
   },
+  {
+    name: "Imesha Dilshani",
+    slug: "imesha-dilshani",
+    image: "./src/assets/authors/Imesha.jpg",
+    bio: " Hi, I am Imesha ",
+  },
 ];
