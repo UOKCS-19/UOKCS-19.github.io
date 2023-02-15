@@ -32,6 +32,24 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "AyishaIlyas",
+      "name": "Ayisha Ilyas",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93942498?v=4",
+      "profile": "https://github.com/AyishaIlyas",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "ImeshaDilshani",
+      "name": "Imesha Dilshani",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93858302?v=4",
+      "profile": "https://github.com/ImeshaDilshani",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
