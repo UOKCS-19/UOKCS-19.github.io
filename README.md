@@ -1,6 +1,6 @@
 # UOKCS-19 Dev Community Blog
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![Active Issues](https://deepsource.io/gh/UOKCS-19/UOKCS-19.github.io.svg/?label=active+issues&token=G05jCYgHjy_6OHj6OVgxb6LO)](https://deepsource.io/gh/UOKCS-19/UOKCS-19.github.io/?ref=repository-badge)
@@ -113,6 +113,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/KavindiDev"><img src="https://avatars.githubusercontent.com/u/99270120?v=4?s=100" width="100px;" alt="Dewmini Thakshila Kavindi"/><br /><sub><b>Dewmini Thakshila Kavindi</b></sub></a><br /><a href="https://github.com/UOKCS-19/UOKCS-19.github.io/commits?author=KavindiDev" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/YSanj98"><img src="https://avatars.githubusercontent.com/u/117887208?v=4?s=100" width="100px;" alt="Yasindu Sanjeewa"/><br /><sub><b>Yasindu Sanjeewa</b></sub></a><br /><a href="https://github.com/UOKCS-19/UOKCS-19.github.io/commits?author=YSanj98" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/weerawi"><img src="https://avatars.githubusercontent.com/u/108020013?v=4?s=100" width="100px;" alt="Tharindu Vinod"/><br /><sub><b>Tharindu Vinod</b></sub></a><br /><a href="#content-weerawi" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
