@@ -56,4 +56,10 @@ export const authors: Props[] = [
     image: "./src/assets/authors/ayisha.jpeg",
     bio: " As a tech writer and creative blogger, I merge my passion for technology and communication in engaging and informative content, while pursuing my undergraduate degree.",
   },
+  {
+    name: "Dinithi Tharushini",
+    slug: "dinithi-tharushini",
+    image: "./src/assets/authors/dinithi.jpg",
+    bio: "Hi it's me ,I'm the problem",
+  },
 ];
