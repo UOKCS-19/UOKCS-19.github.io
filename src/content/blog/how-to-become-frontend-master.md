@@ -4,10 +4,12 @@ excerpt: "This temporary file contains placeholder text for testing purposes. It
 publishDate: "2022-11-07T15:39:36.050Z"
 image: "https://images.unsplash.com/photo-1676022763484-810091cd3eb5"
 category: "travel"
-author: "sample-person2"
+author: "yasiru-thanthirige"
 tags: [astro, tailwindcss, frontend]
 ---
+
 ## TEMP ARTICLE
+
 ### DO NOT USE
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec metus tincidunt, vestibulum nulla nec, venenatis quam. Duis hendrerit enim et sagittis hendrerit. Donec vel libero sit amet urna hendrerit facilisis. Praesent id ullamcorper augue. Fusce luctus posuere lacus, sed euismod nulla convallis ac. Etiam posuere enim a arcu eleifend, in lobortis nulla lacinia.
