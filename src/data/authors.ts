@@ -44,4 +44,16 @@ export const authors: Props[] = [
     image: "./src/assets/authors/tharinduVinod.jpg",
     bio: "As an active collaborator with creativity on my side, I bring a unique perspective to our team's projects, and take pride in working together to achieve our goals. I am dedicated to finding innovative solutions that push the boundaries and exceed expectations.",
   },
+  {
+    name: "Imesha Dilshani",
+    slug: "imesha-dilshani",
+    image: "./src/assets/authors/imesha.jpg",
+    bio: " I am a tech enthusiast undergraduate and a designer skilled in producing functional and aesthetically pleasing visual solutions, with a passion for exploring new technologies.",
+  },
+  {
+    name: "Ayisha Ilyas",
+    slug: "ayisha-ilyas",
+    image: "./src/assets/authors/ayisha.jpeg",
+    bio: " As a tech writer and creative blogger, I merge my passion for technology and communication in engaging and informative content, while pursuing my undergraduate degree.",
+  },
 ];
