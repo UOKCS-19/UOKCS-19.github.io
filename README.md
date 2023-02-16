@@ -1,6 +1,6 @@
 # UOKCS-19 Dev Community Blog
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![Active Issues](https://deepsource.io/gh/UOKCS-19/UOKCS-19.github.io.svg/?label=active+issues&token=G05jCYgHjy_6OHj6OVgxb6LO)](https://deepsource.io/gh/UOKCS-19/UOKCS-19.github.io/?ref=repository-badge)
@@ -20,6 +20,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/weerawi"><img src="https://avatars.githubusercontent.com/u/108020013?v=4?s=100" width="100px;" alt="Tharindu Vinod"/><br /><sub><b>Tharindu Vinod</b></sub></a><br /><a href="#content-weerawi" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/AyishaIlyas"><img src="https://avatars.githubusercontent.com/u/93942498?v=4?s=100" width="100px;" alt="Ayisha Ilyas"/><br /><sub><b>Ayisha Ilyas</b></sub></a><br /><a href="#content-AyishaIlyas" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/ImeshaDilshani"><img src="https://avatars.githubusercontent.com/u/93858302?v=4?s=100" width="100px;" alt="Imesha Dilshani"/><br /><sub><b>Imesha Dilshani</b></sub></a><br /><a href="#content-ImeshaDilshani" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/DinithiTharushini"><img src="https://avatars.githubusercontent.com/u/120458303?v=4?s=100" width="100px;" alt="DinithiTharushini"/><br /><sub><b>DinithiTharushini</b></sub></a><br /><a href="#content-DinithiTharushini" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
