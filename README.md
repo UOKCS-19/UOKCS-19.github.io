@@ -5,12 +5,37 @@
 
 [![Active Issues](https://deepsource.io/gh/UOKCS-19/UOKCS-19.github.io.svg/?label=active+issues&token=G05jCYgHjy_6OHj6OVgxb6LO)](https://deepsource.io/gh/UOKCS-19/UOKCS-19.github.io/?ref=repository-badge)
 
+## Contributors ✨
 
-This is the community site and blog hosted on github pages
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/KavindiDev"><img src="https://avatars.githubusercontent.com/u/99270120?v=4?s=100" width="100px;" alt="Dewmini Thakshila Kavindi"/><br /><sub><b>Dewmini Thakshila Kavindi</b></sub></a><br /><a href="https://github.com/UOKCS-19/UOKCS-19.github.io/commits?author=KavindiDev" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/YSanj98"><img src="https://avatars.githubusercontent.com/u/117887208?v=4?s=100" width="100px;" alt="Yasindu Sanjeewa"/><br /><sub><b>Yasindu Sanjeewa</b></sub></a><br /><a href="https://github.com/UOKCS-19/UOKCS-19.github.io/commits?author=YSanj98" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/weerawi"><img src="https://avatars.githubusercontent.com/u/108020013?v=4?s=100" width="100px;" alt="Tharindu Vinod"/><br /><sub><b>Tharindu Vinod</b></sub></a><br /><a href="#content-weerawi" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/AyishaIlyas"><img src="https://avatars.githubusercontent.com/u/93942498?v=4?s=100" width="100px;" alt="Ayisha Ilyas"/><br /><sub><b>Ayisha Ilyas</b></sub></a><br /><a href="#content-AyishaIlyas" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ImeshaDilshani"><img src="https://avatars.githubusercontent.com/u/93858302?v=4?s=100" width="100px;" alt="Imesha Dilshani"/><br /><sub><b>Imesha Dilshani</b></sub></a><br /><a href="#content-ImeshaDilshani" title="Content">🖋</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
 ## Live Demo
 
-### <a href="https://uokcs-19.github.io/"><img src="https://img.shields.io/badge/Live%20Preview-online-brightgreen"></a>
+This is the community site and blog hosted on github pages
+
+<a href="https://uokcs-19.github.io/"><img src="https://img.shields.io/badge/Live%20Preview-online-brightgreen"></a>
 
 ## Installation
 
@@ -93,36 +118,10 @@ Any static assets, like images, can be placed in the `public/` directory.
 
 TailwindCSS is already configured in this repo, so you can start using them without any installation.
 
-
 ## 👀 Want to learn more?
 
-Feel free to check out [Astro Docs](https://docs.astro.build) or jump into our [Discord Chat](https://web3templates.com/discord).
+Feel free to check out [Astro Docs](https://docs.astro.build).
 
 [![Built with Astro](https://astro.badg.es/v1/built-with-astro.svg)](https://astro.build)
+
 And with Stablo Theme
-
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/KavindiDev"><img src="https://avatars.githubusercontent.com/u/99270120?v=4?s=100" width="100px;" alt="Dewmini Thakshila Kavindi"/><br /><sub><b>Dewmini Thakshila Kavindi</b></sub></a><br /><a href="https://github.com/UOKCS-19/UOKCS-19.github.io/commits?author=KavindiDev" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/YSanj98"><img src="https://avatars.githubusercontent.com/u/117887208?v=4?s=100" width="100px;" alt="Yasindu Sanjeewa"/><br /><sub><b>Yasindu Sanjeewa</b></sub></a><br /><a href="https://github.com/UOKCS-19/UOKCS-19.github.io/commits?author=YSanj98" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/weerawi"><img src="https://avatars.githubusercontent.com/u/108020013?v=4?s=100" width="100px;" alt="Tharindu Vinod"/><br /><sub><b>Tharindu Vinod</b></sub></a><br /><a href="#content-weerawi" title="Content">🖋</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/AyishaIlyas"><img src="https://avatars.githubusercontent.com/u/93942498?v=4?s=100" width="100px;" alt="Ayisha Ilyas"/><br /><sub><b>Ayisha Ilyas</b></sub></a><br /><a href="#content-AyishaIlyas" title="Content">🖋</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ImeshaDilshani"><img src="https://avatars.githubusercontent.com/u/93858302?v=4?s=100" width="100px;" alt="Imesha Dilshani"/><br /><sub><b>Imesha Dilshani</b></sub></a><br /><a href="#content-ImeshaDilshani" title="Content">🖋</a></td>
-    </tr>
-  </tbody>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
