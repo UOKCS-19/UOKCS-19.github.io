@@ -33,6 +33,12 @@ export const authors: Props[] = [
     bio: "As the busiest member of our team, I am constantly on the go, but I never forget to put on a happy face and approach each task with a positive attitude. I take pride in my ability to stay organized and focused, while also bringing a sense of joy and enthusiasm to everything I do.",
   },
   {
+    name: "Jayawinath Induwara",
+    slug: "jayawinath-induwara",
+    image: "./src/assets/authors/induwara.jpg",
+    bio: "3 lines are not enough to define who I am",
+  },
+  {
     name: "Dewmini Thakshila",
     slug: "dewmini-thakshila",
     image: "./src/assets/authors/dewmini.jpg",
