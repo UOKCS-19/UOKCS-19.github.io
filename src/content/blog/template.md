@@ -8,7 +8,7 @@ category: "technology"
 # remove this line to publish
 draft: true
 # author slug: choose from "./src/data/authors.js"
-author: "sandun-srimal"
+author: "ayisha-ilyas"
 tags: [tag1, tag2, tag3]
 ---
 
