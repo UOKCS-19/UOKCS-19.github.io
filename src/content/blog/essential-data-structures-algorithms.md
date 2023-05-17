@@ -4,7 +4,7 @@ excerpt: "Ornare cum cursus laoreet sagittis nunc fusce posuere per euismod dis 
 publishDate: "2022-11-09T16:39:36.050Z"
 image: "https://images.unsplash.com/photo-1676208972443-f6ac603af62c"
 category: "design"
-author: "yasiru-thanthirige"
+author: "omali-fernando"
 tags: [webdev, tailwindcss, frontend]
 ---
 

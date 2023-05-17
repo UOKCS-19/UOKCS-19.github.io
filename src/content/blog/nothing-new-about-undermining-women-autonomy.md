@@ -4,7 +4,7 @@ excerpt: "The importance of empowering women and the strategies that can be empl
 publishDate: "2022-11-18T11:39:36.050Z"
 image: "https://images.unsplash.com/photo-1664575599618-8f6bd76fc670"
 category: "lifestyle"
-author: "sandun-srimal"
+author: "ayisha-ilyas"
 tags: [tag1, tag2, tag3]
 ---
 
