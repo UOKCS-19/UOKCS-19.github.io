@@ -9,24 +9,6 @@ export type Author = Props;
 
 export const authors: Props[] = [
   {
-    name: "Yasiru Thanthirige",
-    slug: "yasiru-thanthirige",
-    image: "./src/assets/authors/yasiru.jpg",
-    bio: "As a passionate undergraduate, I bring energy and enthusiasm to all that I do, whether it's pursuing my studies or playing guitar and singing in my free time. I am committed to bringing my creativity and dedication to all aspects of my life and work.",
-  },
-  {
-    name: "Chamuditha Gunawardene",
-    slug: "chamuditha-gunawardene",
-    image: "./src/assets/authors/chamuditha.jpg",
-    bio: "As a lifesaver in the digital world, I am always reaching my hands for new technologies and innovative solutions that can help our team and our clients stay ahead of the curve. I am dedicated to staying up to date on the latest trends and tools, and to sharing my expertise with others to help them achieve their goals.",
-  },
-  {
-    name: "Sandun Srimal",
-    slug: "sandun-srimal",
-    image: "./src/assets/authors/sandun.jpg",
-    bio: "As a successful entrepreneur with high creative editing skills, I always use my name as 'sandun' (without capital S) to reflect my unique style and approach. I am dedicated to pushing the boundaries of what's possible, and to finding innovative solutions that can help our clients stand out in a crowded marketplace.",
-  },
-  {
     name: "Omali Fernando",
     slug: "omali-fernando",
     image: "./src/assets/authors/omali.jpg",

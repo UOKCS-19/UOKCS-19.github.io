@@ -4,7 +4,7 @@ excerpt: "This temporary file contains placeholder text for testing purposes. It
 publishDate: "2022-11-07T15:39:36.050Z"
 image: "https://images.unsplash.com/photo-1676022763484-810091cd3eb5"
 category: "travel"
-author: "yasiru-thanthirige"
+author: "omali-fernando"
 tags: [astro, tailwindcss, frontend]
 ---
 
