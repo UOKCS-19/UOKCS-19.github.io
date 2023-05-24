@@ -17,11 +17,11 @@ dependencies:
     specifier: ^3.1.2
     version: 3.1.2(astro@2.4.5)(tailwindcss@3.3.2)
   '@fontsource/gilda-display':
-    specifier: ^4.5.10
-    version: 4.5.10
+    specifier: ^5.0.0
+    version: 5.0.0
   '@fontsource/inter':
-    specifier: ^4.5.15
-    version: 4.5.15
+    specifier: ^5.0.1
+    version: 5.0.1
   '@types/alpinejs':
     specifier: ^3.7.1
     version: 3.7.1
@@ -691,12 +691,12 @@ packages:
     dev: false
     optional: true
 
-  /@fontsource/gilda-display@4.5.10:
-    resolution: {integrity: sha512-eTcQEkmPzLjpGovkWaUG12WFdKtXzxQWvrpDAgf3mtiMUgIUXjHqD/OBKKurHDwnBTz2T62fb3fcqOZRywv9/Q==}
+  /@fontsource/gilda-display@5.0.0:
+    resolution: {integrity: sha512-VHmTFtB6DXDpzd/PPS7EyBW3hZsRH3KQPzaaCeJT9xaAb6elst9oPfUBEDonhs/tjLJaaDVVS9SXaoHU95N+8g==}
     dev: false
 
-  /@fontsource/inter@4.5.15:
-    resolution: {integrity: sha512-FzleM9AxZQK2nqsTDtBiY0PMEVWvnKnuu2i09+p6DHvrHsuucoV2j0tmw+kAT3L4hvsLdAIDv6MdGehsPIdT+Q==}
+  /@fontsource/inter@5.0.1:
+    resolution: {integrity: sha512-jezFhHp0HcVy2t6M6r89EcxkT30vx0ofGauveQWQ81j70N/wNDYs4zI+sedeend6zF9GXIEqpOTO2D1k7VQX4w==}
     dev: false
 
   /@jridgewell/gen-mapping@0.3.3:
