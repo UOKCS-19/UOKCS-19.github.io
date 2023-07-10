@@ -2,8 +2,8 @@ lockfileVersion: '6.0'
 
 dependencies:
   '@astrojs/alpinejs':
-    specifier: ^0.2.1
-    version: 0.2.1(@types/alpinejs@3.7.1)(alpinejs@3.12.1)
+    specifier: ^0.2.2
+    version: 0.2.2(@types/alpinejs@3.7.1)(alpinejs@3.12.1)
   '@astrojs/image':
     specifier: ^0.16.8
     version: 0.16.8(astro@2.4.5)(sharp@0.32.1)
@@ -91,8 +91,8 @@ packages:
       '@jridgewell/trace-mapping': 0.3.18
     dev: false
 
-  /@astrojs/alpinejs@0.2.1(@types/alpinejs@3.7.1)(alpinejs@3.12.1):
-    resolution: {integrity: sha512-lIwCw2XUB/3HAstWpqGvUnSH4BnFwXxkSxq+jpkPw0U1mMw4JP4RauGUbD1F2acZXun7T68alJydAF1dLLCv4A==}
+  /@astrojs/alpinejs@0.2.2(@types/alpinejs@3.7.1)(alpinejs@3.12.1):
+    resolution: {integrity: sha512-YX224PPxv+RymzOKFspY1K1aw7rCT2qOuUrRgfnDgwuQ2GMe9S13zmBzIC7BrkK4kNbh+6nWZW9lXVkGlO6mww==}
     peerDependencies:
       '@types/alpinejs': ^3.0.0
       alpinejs: ^3.0.0
