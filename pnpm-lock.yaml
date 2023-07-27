@@ -9,8 +9,8 @@ dependencies:
     specifier: ^0.2.2
     version: 0.2.2(@types/alpinejs@3.7.2)(alpinejs@3.12.3)
   '@astrojs/image':
-    specifier: ^0.16.8
-    version: 0.16.8(astro@2.9.0)(sharp@0.32.4)
+    specifier: ^0.17.2
+    version: 0.17.2(astro@2.9.0)(sharp@0.32.4)
   '@astrojs/mdx':
     specifier: ^0.19.7
     version: 0.19.7(astro@2.9.0)
@@ -109,10 +109,10 @@ packages:
     resolution: {integrity: sha512-QZZhV2kOhvyXEfpaGLgHWNPUOlkMVx3Zw+5IlXXU2p448NwtyYt3C6MuS7baVsTlluH3EedAoDBmelt9hPhfiQ==}
     dev: false
 
-  /@astrojs/image@0.16.8(astro@2.9.0)(sharp@0.32.4):
-    resolution: {integrity: sha512-ka18Y8HXllitE4TN66tmxqc1j+pgfqfq5i/D3I0QmmH2hFd7olFNVDrd15S4ZM1U5jxZORUv+PuJU0g8dZEjqQ==}
+  /@astrojs/image@0.17.2(astro@2.9.0)(sharp@0.32.4):
+    resolution: {integrity: sha512-hw5vGBlyPwyt9E4ux7eej7dJrcSlTAaMYKYd8OWIJVsFSbV75sXNi+5lwbpNjDLGVIS6Baa4nzayjN5Gxo73MQ==}
     peerDependencies:
-      astro: ^2.4.5
+      astro: ^2.7.3
       sharp: '>=0.31.0'
     peerDependenciesMeta:
       sharp:
