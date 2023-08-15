@@ -9,9 +9,6 @@ import { remarkReadingTime } from "./src/utils/all";
 // https://astro.build/config
 export default defineConfig({
   site: "https://uokcs-19.github.io/",
-  experimental: {
-    contentCollections: true
-  },
   markdown: {
     remarkPlugins: [remarkReadingTime],
     extendDefaultPlugins: false
