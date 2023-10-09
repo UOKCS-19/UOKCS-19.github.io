@@ -16,7 +16,7 @@
     "@astrojs/mdx": "^0.19.7",
     "@astrojs/sitemap": "^3.0.0",
     "@astrojs/tailwind": "^4.0.0",
-    "@fontsource/gilda-display": "^5.0.8",
+    "@fontsource/gilda-display": "^5.0.15",
     "@fontsource/inter": "^5.0.8",
     "@types/alpinejs": "^3.7.2",
     "alpinejs": "^3.12.3",
